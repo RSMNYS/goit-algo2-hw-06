@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-MapReduce Word Frequency Analyzer
-
-Скрипт для аналізу частоти використання слів у тексті за допомогою парадигми MapReduce
-з візуалізацією результатів.
-
-Автор: [Ваше ПІБ]
-Дата: 2025
-"""
-
 import re
 import string
 import requests
